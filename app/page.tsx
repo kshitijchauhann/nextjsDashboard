@@ -25,6 +25,8 @@ export default function Page() {
             width={560}
             height={620}
             className="block md:hidden"
+            alt="Screenshots of the dashboard project showing mobile version"
+
           />
         <div className={styles.shape}/>
           <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
